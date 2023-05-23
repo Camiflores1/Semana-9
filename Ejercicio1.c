@@ -40,7 +40,7 @@ int main() {
         }
     }
     
-    //Se determina la matriz transpuesta
+    //Determina la matriz transpuesta
     printf("\nMatriz transpuesta:\n");
     for (int i = 0; i < colum; i++) {
         for (int j = 0; j < fil; j++) {
